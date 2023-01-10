@@ -1,0 +1,270 @@
+body {
+	background-image: url("/images/bg4.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	margin: 0px;
+}
+
+h1 {
+	font-size: 400%;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial Verdana;
+	font-style: oblique;
+	color: white;
+	text-align: center;
+	background-color: light blue;
+}
+
+h2 {
+	font-size: 400%;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial Verdana;
+	font-style: oblique;
+	text-align: center;
+	background-color: light blue;
+}
+
+h5 {
+	font-size: 200%;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial Verdana;
+	font-style: oblique;
+	text-align: center;
+	background-color: light blue;
+}
+h6 {
+	font-size: 100%;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial Verdana;
+	font-style: oblique;
+	text-align: center;
+	background-color: light blue;
+}
+
+
+body {
+	background-image: url("/images/bg4.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	margin: 0px;
+}
+
+h1 {
+	font-size: 400%;
+	font-weight: bold;
+	margin: 0px 0px 0px -20px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial Verdana;
+	font-style: oblique;
+	color: white;
+	text-align: center;
+	background-color: light blue;
+}
+
+h2 {
+	font-size: 400%;
+	font-weight: bold;
+	margin: 0px 0px 0px -20px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial Verdana;
+	font-style: oblique;
+	text-align: center;
+	background-color: light blue;
+}
+
+h5 {
+	font-size: 200%;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	font-family: Arial Verdana;
+	font-style: oblique;
+	text-align: center;
+	background-color: light blue;
+}
+#box {
+	border-radius: 25px;
+	background-color: #F0F3F4;
+	padding: 20px;
+	margin: 70px 750px 80px 600px;
+}
+
+.anch{
+	width: 30%;
+	background-color: #0080c0;
+	font-weight: bold;
+	color: white;
+	padding: 14px 20px;
+	margin: 78px 240px 10px 200px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+
+a {
+	width: 100%;
+	background-color: #0080c0;
+	color: white;
+	padding: 14px 20px;
+	border-radius: 4px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+input[type=submit] {
+	width: 100%;
+	background-color: #0080c0;
+	font-weight: bold;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.header {
+	padding: 0px;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+	margin: 0px 0px 0px 0px;
+}
+
+input[type=submit]:hover {
+	background-color: #0000ff;
+}
+
+p {
+	margin: 0px 0px 0px 1150px;
+	color: white;
+	font-weight: bold;
+	font-size: 100%;
+}
+.para1 {
+	margin: 0px 0px 0px 150px;
+	color: black;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+#logo {
+	position: fixed;
+	top: 0 px;
+	left: 0 px;
+	padding: 0px;
+}
+
+#lab {
+	width: 70%;
+	background-color: #b000c0;
+	font-weight: bold;
+	color: white;
+	padding: 3px 10px;
+	margin: 4px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	
+}
+
+a:hover {
+	background-color: #0000ff;
+}
+
+.imgsrc {
+	border-radius: 25px;
+	background-color: #F0F3F4;
+	padding: 20px;
+	margin: 70px 550px 80px 110px;
+}
+a {
+	width: 100%;
+	background-color: #0080c0;
+	color: white;
+	padding: 14px 20px;
+	border-radius: 4px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+input[type=submit] {
+	width: 100%;
+	background-color: #0080c0;
+	font-weight: bold;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.header {
+	padding: 0px;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+	margin: 0px 0px 0px 0px;
+}
+
+input[type=submit]:hover {
+	background-color: #0000ff;
+}
+
+p {
+	margin: 0px 0px 0px 1150px;
+	color: white;
+	font-weight: bold;
+	font-size: 100%;
+}
+.para1 {
+	margin: 0px 0px 0px 150px;
+	color: black;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+#logo {
+	position: fixed;
+	top: 0 px;
+	left: 0 px;
+	padding: 0px;
+}
+
+a:hover {
+	background-color: #0000ff;
+}
